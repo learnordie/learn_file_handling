@@ -20,6 +20,7 @@ print(content)
 # print(content)
 
 # Read the file line by line
+# ("readline()" is not very efficient for big data files)
 with open(INPUT_FILE) as f:
     first_line = f.readline()
     second_line = f.readline()
