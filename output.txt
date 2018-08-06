@@ -1,7 +1,7 @@
-This is the third and last one.
-This is the second.
-This is the first line of this file.
+three
+two
+one
 Appending some_text...
-This is the first line of this file.
-This is the second.
-This is the third and last one.
+one
+two
+three

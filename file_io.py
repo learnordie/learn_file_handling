@@ -3,7 +3,7 @@
 
 """ File input and output operations """
 
-INPUT_FILE = "some_text.txt"
+INPUT_FILE = "different_lines.txt"
 OUTPUT_FILE = "output.txt"
 # NOFILE = "dioooos.txt"
 
